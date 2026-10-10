@@ -18,7 +18,7 @@ Quick Notes is a small web app for writing short notes and sorting them into Per
 ## How to run locally
 
 1. Clone the repository:
-   `git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git`
+   `git clone https://github.com/wanjr0/quicknotes-app.git`
 2. Open the project folder.
 3. Double-click `index.html` to open it in your browser (no server or install needed).
 
